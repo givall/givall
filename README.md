@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm samet!
 
-<!--
-**givall/givall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/givall?label=Follow&style=social)](https://github.com/givall)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer passionate about writing code. I enjoy contributing to open source projects, learning new technologies, and solving problems.
+
+## 🛠️ Technologies and Tools
+
+Here are some of the technologies and tools I enjoy working with:
+
+- Programming Languages: C, Python, JavaScript, Php
+- Web Technologies: HTML, CSS, React, Angular
+- Databases: SQL Server, MySQL, MongoDB
+- Tools: Git, Visual Studio, VS Code, Jupyter Notebook
+
+## 🌱 What I'm Learning
+
+Here are some of the topics I'm currently learning and improving on:
+
+- Docker and Kubernetes
+- AWS and cloud technologies
+
+
